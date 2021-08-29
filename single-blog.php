@@ -96,7 +96,7 @@
                      <div class="s-content__entry-meta">
                         <div class="entry-author meta-blk">
                            <div class="author-avatar">
-                              <img class="avatar" src="images/avatars/user-06.jpg" alt="">
+                              <img class="avatar" src="own.jpg" alt="">
                            </div>
                            <div class="byline">
                               <span class="bytext">Posted By</span>
