@@ -78,13 +78,6 @@
                             <p>
                             I just love to work in Technical field by learning new Languages, Technologies and framework's day by day.It will give me more happiness to share my personal ideas and experience with you.
                             </p> 
-
-                            <!-- <p>
-                            Lorem ipsum Cillum sit sunt dolore non aute enim pariatur deserunt magna reprehenderit veniam officia ullamco 
-                            eiusmod laborum commodo veniam elit proident enim sit cillum ex aliquip dolore labore sint ut deserunt officia 
-                            veniam consectetur in in quis eu consectetur non sint Duis mollit Ut magna irure.
-                            </p> -->
-
                             <br>
 
                             <div class="row block-large-1-2 block-tab-full s-content__blocks">
@@ -108,24 +101,6 @@
                                    <b>Hobbies </b>- Cricket, Listening Songs.
                                     </p>
                                 </div>
-
-                                <!-- <div class="column">
-                                    <h4>What.</h4>
-                                    <p>
-                                    Lorem ipsum Nisi amet fugiat eiusmod et aliqua ad qui ut nisi Ut aute anim mollit fugiat qui sit ex 
-                                    occaecat et eu mollit nisi pariatur fugiat deserunt dolor veniam reprehenderit aliquip magna nisi 
-                                    consequat aliqua veniam in aute ullamco Duis laborum ad non pariatur sit.
-                                    </p>
-                                </div>
-
-                                <div class="column">
-                                    <h4>How.</h4>
-                                    <p>
-                                    Lorem ipsum Nisi amet fugiat eiusmod et aliqua ad qui ut nisi Ut aute anim mollit fugiat qui 
-                                    sit ex occaecat et eu mollit nisi pariatur fugiat deserunt dolor veniam reprehenderit aliquip 
-                                    magna nisi consequat aliqua veniam in aute ullamco Duis laborum ad non pariatur sit.
-                                    </p>
-                                </div> -->
 
                             </div>
                         </div> <!-- end s-entry__page-content -->
