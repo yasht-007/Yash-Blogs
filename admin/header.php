@@ -1,4 +1,3 @@
-<?php  session_start(); ?>
 <nav class="navbar navbar-default top-navbar" role="navigation">
     <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">

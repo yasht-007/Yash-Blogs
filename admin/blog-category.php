@@ -1,7 +1,6 @@
 <?php
 
 session_start();
-include_once('includes/sessions.php');
 require "includes/connection.php";
 include "includes/auth-login.php";
 include "includes/unset-sessions.php";
